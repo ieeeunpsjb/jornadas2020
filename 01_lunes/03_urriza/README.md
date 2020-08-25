@@ -1,0 +1,8 @@
+# Sistemas Embebidos, de Tiempo Real e IoT
+La expansión de los sistemas electrónicos de propósito dedicado (embedded systems) es continua. La potencia de cálculo que poseen los microprocesadores actuales para aplicaciones embebidas, permiten realizar un sin número de nuevas aplicaciones de software, expandiendo los límites de las prestaciones que los mismos pueden brindar a los usuarios. En los últimos años, una de las nuevas prestaciones, es la conexión de los mismos por algún método de comunicación (WIFI, Bluetooth, etc) a la red Internet, convirtiendo a los mismos en lo que hoy denominamos IoT, o el Internet de las cosas. La gran mayoría de las aplicaciones de los sistemas embebidos poseen requerimientos de tiempo real. En consecuencia es importante conocer cómo cumplir con estos requerimientos de manera precisa, desde las primeras etapas de diseño para no sobredimensionar los componentes y hacer un uso racional de los recursos funcionales y no funcionales del sistema a desarrollar. 
+
+# Urriza, José Manuel
+Ingeniero Electrónico egresado de la UN del Sur. Doctor en Ingeniería con una Beca Doctoral de CONICET. Profesor de la UNPSJB en la cátedra Redes y Transmisión de Datos en la Sede Puerto Madryn, Sistemas Embebidos y de Tiempo Real, en las sedes de Puerto Madryn y Comodoro Rivadavia. Realiza investigaciones sobre Sistemas de Tiempo Real , Sistemas Embebidos e IoT, teniendo más de 50 publicaciones en distintas revistas y congresos y ha presentado dictado diversos workshops, talleres, seminarios, cursos de posgrado y charlas. 
+
+# Presentación
+ [![Watch the video](https://img.youtube.com/vi/sfZ6VDPSWFg/maxresdefault.jpg)](https://www.youtube.com/watch?v=sfZ6VDPSWFg)
