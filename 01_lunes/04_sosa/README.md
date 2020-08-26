@@ -4,5 +4,5 @@ Esta presentación se centra en las actividades del Departamento de Innovación 
 # Sosa, Cristian
 Ingeniero Electrónico por la UNPSJB, Jefe del departamento de innovación y automatización de la Sociedad Cooperativa Popular Limitada de la ciudad de Comodoro Rivadavia. 
 
-# Presentación
+# Presentación en Youtube
  [![Watch the video](https://img.youtube.com/vi/FKQylIMVZLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=FKQylIMVZLw)

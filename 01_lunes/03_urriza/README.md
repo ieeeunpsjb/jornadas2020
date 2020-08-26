@@ -4,5 +4,5 @@ La expansión de los sistemas electrónicos de propósito dedicado (embedded sys
 # Urriza, José Manuel
 Ingeniero Electrónico egresado de la UN del Sur. Doctor en Ingeniería con una Beca Doctoral de CONICET. Profesor de la UNPSJB en la cátedra Redes y Transmisión de Datos en la Sede Puerto Madryn, Sistemas Embebidos y de Tiempo Real, en las sedes de Puerto Madryn y Comodoro Rivadavia. Realiza investigaciones sobre Sistemas de Tiempo Real , Sistemas Embebidos e IoT, teniendo más de 50 publicaciones en distintas revistas y congresos y ha presentado dictado diversos workshops, talleres, seminarios, cursos de posgrado y charlas. 
 
-# Presentación
+# Presentación en Youtube
  [![Watch the video](https://img.youtube.com/vi/sfZ6VDPSWFg/maxresdefault.jpg)](https://www.youtube.com/watch?v=sfZ6VDPSWFg)

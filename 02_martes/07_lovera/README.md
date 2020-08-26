@@ -1,0 +1,6 @@
+# Desafíos de Redes Convergentes IT/OT & Ciberseguridad industrial
+Abordaremos los desafíos que la industria presenta con un gran número de dispositivos interconectados; veremos: modelos de referencia, métodos de segmentación más utilizados, soluciones de gestión de redes y visibilidad de ciberseguridad pensadas y diseñada para la industria 4.0. 
+# Lovera, Hernán
+Profesional con más de 15 años de experiencia en el área industrial, con un amplio conocimiento en automatización, control y comunicaciones industriales. Orador regular en eventos de tecnología: Rockwell Automation TechED, Tendencias Tecnológicas, Cisco la ruta a la Industria 4.0, entre otros. Apasionado de la tecnología, de la programación y de la ciberseguridad industrial. Se desempeña en Racklatina como Industrial Iot Product Manager. Licenciado en Gestión de Automatización y Robótica por la UN de Lomas de Zamora. Técnico Superior en Electrónica Digital, Control Automático y Sistemas de Comunicaciones e Informática por el Instituto de Tecnología ORT UNIX. 
+# Presentación en Youtube
+[![Watch the video](https://img.youtube.com/vi/WvbjfpY9ZlM/maxresdefault.jpg)](https://www.youtube.com/watch?v=WvbjfpY9ZlM)
