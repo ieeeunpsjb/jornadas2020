@@ -1,0 +1,6 @@
+# Ecualización bidimensional de canales móviles multiportadora
+Las técnicas de modulación multiportadora como OFDM son ampliamente utilizadas, siendo una de las tecnologías propuestas para 5G por ejemplo. Sin embargo este método de transmisión no está excento de problemas. En canales con elevada móvilidad es inevitable la aparación de interferencia inter-portadora (ICI) por efecto Doppler, e interferencia inter-símbolo (ISI) por caminos múltiples. Una manera de combatir estas interferencias es mediante ecualización. En esta charla se presentará un ecualizador basado en el algoritmo BCJR que puede compensar ICI e ISI para reducir la tasa de error de datos. 
+# Pires, Jorge
+Estudiante de doctorado en ingeniería gracias a una beca CIT-golfo San Jorge CONICET, y docente del departamento de Electrónica de la UNPSJB. Previamente realizo una maestría en EEUU. Actualmente se encuentra finalizando su tesis de posgrado. Sus áreas de interés son las telecomunicaciones, y el procesamiento digital de señales. 
+# Presentación en Youtube
+ [![Watch the video](https://img.youtube.com/vi/yFey97jeyuM/maxresdefault.jpg)](https://www.youtube.com/watch?v=yFey97jeyuM)

@@ -1,0 +1,6 @@
+# Introducción a TCP/IP: Arquitectura Básica, Operación y Aplicaciones
+Es una primera visión de la arquitectura básica con TCP/IP, que emplea cualquier dispositivo en Internet. Para ello se presentan: Capas Modelo TCP/IP, claves en desarrollo de estándares de comunicaciones interoperables. lP protocolo de Nivel de Red, que contiene información de direccionamiento y control ruteo de paquetes a través de una interred, y tipos de Direcciones IP. TCP protocolo de Nivel de Transporte, que provee transmisión confiable, como servicios de transferencia de flujo de bytes, control de flujo y operación full duplex. Aplicaciones:SMTP, FTP, DNS, HTTP y Operación de TCP/IP. 
+# Gallardo, José
+Profesor Titular e Investigador en Departamentos de Informática y Electrónica-FI-UNPSJB. Ingeniero Electrónico UN de Rosario. Posgrados Ing. Telecomunicaciones-E.S.Técnica (IESE) e Ing. Comunicaciones Digitales-JICA-Inictel. Maestría Redes Datos en UN La Plata. Trabajó en ENTEL/Telefónica por más de 15 años, en distintas zonas país. 
+# Presentación en Youtube
+ [![Watch the video](https://img.youtube.com/vi/vc54kribwMg/maxresdefault.jpg)](https://www.youtube.com/watch?v=vc54kribwMg)

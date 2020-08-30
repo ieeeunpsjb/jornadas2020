@@ -26,3 +26,6 @@ Doctor en Ciencias de la Computación e Inteligencia Artificial, Director del Gr
  # Presentación en Youtube
 
  [![Watch the video](https://img.youtube.com/vi/AM4Wx33dpcc/maxresdefault.jpg)](https://www.youtube.com/watch?v=AM4Wx33dpcc)
+
+ # Contacto
+    martinbilbao@ing.unp.edu.ar
